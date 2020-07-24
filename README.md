@@ -1,4 +1,4 @@
-Run tests simulating GET request within spring stack.<br/>
+Test with Mockito in a spring application.<br/>
 This example uses ArgumentMatchers.<br/>
 <br/>
 compile & test :<br/>
